@@ -94,19 +94,6 @@ MSFD_SerializationDemo/
 • **XML**: Human-readable, schema validation, larger file size  
 • **JSON**: Web-friendly, moderate size, excellent interoperability  
 
-## Microsoft Full Stack Developer Certification
-
-This project demonstrates key competencies required for the Microsoft Full Stack Developer certification:
-
-• ✅ **C# Programming**: Object-oriented programming with modern C# syntax  
-• ✅ **.NET Framework Mastery**: Utilizing .NET 9.0 libraries and features  
-• ✅ **File I/O Operations**: Working with different file streams and serialization methods  
-• ✅ **Data Serialization**: Understanding multiple serialization techniques and their applications  
-• ✅ **Console Application Development**: Building efficient command-line applications  
-• ✅ **Cross-Platform Development**: Creating applications that work across different environments  
-• ✅ **Error Handling**: Implementing proper resource management with `using` statements  
-• ✅ **Code Organization**: Structuring applications with clear separation of concerns  
-
 ## Learning Objectives
 
 This application demonstrates:
